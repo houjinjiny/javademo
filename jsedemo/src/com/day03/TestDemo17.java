@@ -1,0 +1,12 @@
+package com.day03;
+
+public class TestDemo17 {
+    public static void main(String[] args) {
+        int age=25;
+        if(age>=18){
+            System.out.println("成年了");
+        }else{
+            System.out.println("未成年");
+        }
+    }
+}
